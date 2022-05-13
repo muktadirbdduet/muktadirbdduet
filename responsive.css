@@ -1,0 +1,402 @@
+@media(max-width:1200px){
+    .sec2Col1{
+       
+        padding-left: 150px;
+    }
+
+    .sec2Col2 img {
+        width: 500px;   
+    }
+
+    .sec3RowTop p{
+        padding: 0px 150px;
+    }
+    .sec3RowBottom{
+        
+        padding: 30px 50px;
+        
+    }
+    
+    .sec3RowBottomcol1{
+      
+        padding-right: 15px;
+    }
+
+    .sec5{
+       
+        padding: 10px ;
+        }
+
+        .sec6{
+            padding: 50px;
+        }
+
+        .s6RowTop, .s6RowBottom{
+    
+            padding: 15px;
+            
+        }
+
+        .sec7container {
+            padding: 20px 100px;
+        }
+
+        .sec7 img{
+            width: 500px;
+         }
+
+         .sec8{
+            padding: 30px 50px;
+        }
+
+        .s8image img{
+            height: 180px;
+        }
+
+        .sec10{
+            
+            padding: 40px 50px;
+        }
+
+        .s10ColLeft img{
+            height: 300px;
+            
+           
+        }
+        .s10colRight h1{
+           
+            font-size: 25px;
+            line-height: 30px;
+            padding:0px 10px 30px 10px;
+        }
+        .s10colRight p{
+            line-height: 30px;
+            padding:30px 10px;
+        }
+        
+
+}
+
+/* Desktop View Design */
+
+@media(max-width:991px){
+
+    .sec1{
+        
+        height: 380px;
+        padding: 0px 60px;
+    }
+    .nav-bar{
+        
+        padding: 15px;
+    }
+
+    .sec1Para1, .sec1para2{
+       
+        padding: 10px 0px;
+        
+    }
+    .sec2Col1{
+        padding-left: 80px;
+    }
+
+    .sec2Col2 img {
+        width: 400px;   
+    }
+    .sec3RowTop p{
+        
+        line-height: 30px;
+        padding: 0px 50px;
+    }
+    .sec3RowBottom {
+        padding: 30px 9px;
+    }
+
+    .sec3RowBottomcol1 h3 {
+        font-size: 14px;
+    }
+    .sec4{
+       
+        
+        padding: 0px 100px;
+    }
+
+    .sec5{
+       
+        padding: 10px 20px;
+        }
+
+    .sec5RowTop p{
+       
+        padding: 20px 100px;
+       
+    }
+
+    .s5RBBottom {
+        
+        padding: 10px 5px 40px 5px;
+    }
+    .sec5RowBottom {
+        padding: 30px 0px;
+    }
+    .s5RBBottom a {
+        padding: 10px 20px;
+    }
+    .sec5RowBottomcol1 {
+        padding-right: 10px;
+        
+    }
+
+    .s6details h2 {
+        
+        font-size: 15px;
+        
+    }
+    .s6details p {
+        
+        padding-right: 5px;
+        
+    }
+    .sec7container {
+        padding: 30px;
+    }   
+    .sec7 a{
+        padding: 10px 30px;
+    } 
+    .s8RowTop p{
+        padding: 0px 50px;
+    }
+    .s8image img{
+        height: 140px;
+    }
+    .s8Details h3{
+        font-size: 18px;
+    }
+    .sec9{
+        padding: 80px 150px;
+    }
+    .s10Box{
+        padding-left: 10px;
+    }
+    .s10ColLeft img{
+        height: 250px;
+    }
+}
+
+/* Laptop View Design */
+
+@media(max-width:776px){
+
+    .sec1{
+        
+        height: 300px;
+        padding: 0px 20px;
+    }
+    .nav-items ul li a{
+        font-size: 14px;
+        padding: 0px 7px;
+    }
+    .sec1Box{
+        padding-top: 30px;
+    }
+
+    .sec1 h1{
+        
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .sec1Para1, .sec1para2{
+        font-size: 11px;
+        padding: 10px 0px;
+        line-height: 10px;
+
+    }
+    .sec2Col1{
+        padding-left: 30px;
+    }
+    .sec2Col1 h2{
+        font-size: 20px;
+    }
+    .sec2Col2 img{
+        width: 350px;
+    }
+    .sec3{
+        padding: 15px 40px;
+    }
+    .sec3RowTop p{
+        padding: 0px 10px;
+    }
+    .sec3RowBottom img{
+        height: 80px;
+    }
+    .sec4{
+        padding: 0px 30px;
+    }
+
+    .sec5RowTop{
+        padding: 30px 5px;
+    }
+
+    .sec5RowBottom{
+        flex-direction: column;
+        padding: 0px 150px;;
+    }
+        
+    .sec5RowBottomcol1 {
+        margin-bottom: 40px;
+}
+
+.s6RowTop, .s6RowBottom{
+    flex-direction: column;
+}
+.s6details p{
+ padding-bottom: 30px;
+}
+.sec7 img {
+    width: 300px;
+}
+.s8box{
+    flex-direction: column;
+}
+
+.s8BoxCol img{
+    height: 330px;
+     
+}
+.sec9 {
+    padding: 50px;
+}
+#sec9btn {
+    font-size: 15px;
+    padding: 20px 28px;
+   
+}
+.sec10{
+    flex-direction: column;
+}
+.s10ColLeft img{
+    height: 350px;
+}
+}
+
+/* Tablate View Desin */
+
+@media(max-width:576px){
+
+.nav-bar{
+    flex-direction: column;
+    
+}
+
+.nav-items ul li a{
+    font-size: 10px;
+    padding: 0px 10px;
+    
+ }
+.sec1 h1{
+ font-size: 16px;
+}
+
+.sec1Para1, .sec1para2 {
+    font-size: 11px;
+    padding: 5px 0px;
+}
+
+.sec2{
+    flex-direction: column;
+}
+
+.sec2Col1{
+    order: 1;
+}
+
+.sec2Col2{
+    order: 0;
+}
+.sec3RowBottom{
+    flex-direction: column;
+}
+.sec3RowBottomcol1 {
+    padding: 20px 80px;
+}
+.sec4RowMidlecol1 {
+    padding: 5px;
+    font-size: 11px;
+    line-height: 20px;
+}
+.sec4RowMidlecol1 i {
+   padding-top: 150px;
+    font-size: 15px;
+}
+
+.sec4{
+    padding: 0px 10px;
+}
+
+.sec4RowTop img {
+    height: 15px;
+}
+
+.sec5RowBottom {
+    padding: 0px 50px;
+}
+.sec5RowTop p{
+    padding: 20px;
+}
+
+.s5RBBottom a {
+    padding: 10px 35px;
+}
+.sec6{
+    padding: 30px 10px;
+}
+.sec7container {
+    padding: 10px 30px;
+
+}
+.sec7 img{
+    padding-bottom: 10px;
+}
+
+.sec7 a{
+    margin-left: 100px;
+}
+ 
+.s8BoxCol img {
+    height: 167px;
+    
+}
+.s8RowTop h2{
+    font-size: 30px;
+}
+.s8RowTop p{
+    padding: 0px 15px;
+}
+.s8box{
+    padding-left: 40px;
+}
+
+.sec9 p{padding: 30px;
+}
+
+.sec9 h1{
+    font-size: 25px;
+}
+#sec9btn{
+    padding: 10px 25px;
+}
+.s10ColLeft img{
+
+    height: 200px;
+}
+.sec11{
+    font-size: 15px;
+}
+
+}
+/* Mobile View Design */
+
+
+
+
